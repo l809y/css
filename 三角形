@@ -1,0 +1,8 @@
+div{
+width:10px;
+height:10px;
+border-top:10px solid red;
+border-right:10px solid ttransparent;
+border-bottom:10px solid ttransparent;
+border-left:10px solid ttransparent;
+}
